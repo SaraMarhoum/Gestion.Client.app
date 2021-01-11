@@ -1,0 +1,13 @@
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\bin\Debug\CrudAdoDis.exe.config
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\bin\Debug\CrudAdoDis.exe
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\bin\Debug\CrudAdoDis.pdb
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\obj\Debug\CrudAdoDis.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\obj\Debug\CrudAdoDis.Form1.resources
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\obj\Debug\CrudAdoDis.Properties.Resources.resources
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\obj\Debug\CrudAdoDis.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\obj\Debug\CrudAdoDis.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\obj\Debug\CrudAdoDis.exe
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\obj\Debug\CrudAdoDis.pdb
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Youcode\source\repos\CrudAdoDis\CrudAdoDis\obj\Debug\CrudAdoDis.csproj.CopyComplete
